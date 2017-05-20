@@ -1,0 +1,16 @@
+{
+  "name": "comp2406-assignment3-chat_server_socket_io",
+  "version": "1.0.0",
+  "description": "A chat server using the socket.io module.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mark Kaganovsky 100963794",
+  "license": "ISC",
+  "dependencies": {
+    "mime-types": "^2.1.14",
+    "socket.io": "^1.7.3"
+  }
+}
